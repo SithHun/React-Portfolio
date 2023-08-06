@@ -1,0 +1,41 @@
+/* align items to center of container of entire header, flex, and space between each items */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Give nav header container some space and make it flex */
+  .header-nav {
+    display: flex;
+    gap: 10px;
+    padding: 55px;
+  }
+  
+  /* Give padding and space between developers name/title */
+  .header-title {
+    padding: 55px;
+  }
+
+  /* Spacing around container of navlinks, flex, remove bullets */
+  .header-nav ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Creates space between nav links, give a border around nav links, and move to the right */
+  .header-nav li {
+    margin-right: 55px;
+    border: solid;
+    padding: 8px;
+  }
+
+  /* Remove anchor underline links, make background transparent to background, text anchor to bold */
+  .header-nav a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+  }
