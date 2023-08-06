@@ -1,14 +1,35 @@
-body, html {
-    margin: 0;
-    height: 100%;
-  }
-  
-  .site {
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
+
+.site {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.site-content {
+  flex: 1;
+}
+
+.footer-container {
     display: flex;
-    flex-direction: column;
-    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: #f8f9fa;
+    padding: 10px;
   }
   
-  .site-content {
-    flex: 1;
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: inherit;
   }

@@ -1,6 +1,6 @@
 /* Border line that stretches across screen */
 .my-border-class {
-    width: 100%;
+    width: 98%;
     border: 1px solid #808080;
     border-radius: 5px;
     outline: none;
