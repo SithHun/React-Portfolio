@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import About from './About';
-import Portfolio from './Portfolio';
-import Contact from './Contact';
-import Resume from './Resume';
+import About from '../pages/About';
+import Portfolio from '../pages/Portfolio';
+import Contact from '../pages/Contact';
+import Resume from '../pages/Resume';
 
 function Content() {
   return (
