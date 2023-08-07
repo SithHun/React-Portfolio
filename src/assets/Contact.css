@@ -1,0 +1,15 @@
+.contact-container {
+    margin-left: 150px;
+}
+
+.contact {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 150px;
+}
+
+.bio-text {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}

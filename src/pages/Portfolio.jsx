@@ -3,7 +3,7 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "../assets/Portfolio.css";
 import gamersHub from "../assets/images/gamers-hub.png";
-import travelJournal from "../assets/images/travel-journal.jpg";
+import travelJournal from "../assets/images/travel-journal.JPG";
 
 export default function Portfolio() {
   const repos = [

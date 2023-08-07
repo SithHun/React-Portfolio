@@ -13,3 +13,17 @@
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+
+  /* image sizing */
+  .img-size {
+    width: 300px;
+    height: 300px;
+    object-fit: scale-down;
+  }
+  
+  .avatar-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 150px;
+  }

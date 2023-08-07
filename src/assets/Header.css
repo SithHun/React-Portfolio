@@ -33,6 +33,10 @@
     padding: 8px;
   }
 
+  .header-nav li:hover {
+    background-color: darkgray;
+  }
+
   /* Remove anchor underline links, make background transparent to background, text anchor to bold */
   .header-nav a {
     text-decoration: none;
