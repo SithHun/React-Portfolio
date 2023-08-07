@@ -1,0 +1,86 @@
+.portfolio-header {
+    margin-left: 150px;
+}
+
+/* .projects {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 150px;
+} */
+
+.card {
+    margin-bottom: 100px;
+}
+
+/* image styling */
+.card:hover {
+    cursor: pointer;
+}
+
+.card img {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover img {
+    transform: scale(1.1);
+  }
+
+/* carousel styling */
+.carousel .control-dots {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .carousel .control-dots .dot {
+    background: #333;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    opacity: 0.3;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .carousel .control-dots .dot.selected, 
+  .carousel .control-dots .dot:hover {
+    opacity: 1;
+  }
+
+
+/* carousel arrows */
+
+.carousel .control-arrow:before {
+    color: black;
+  }
+  
+  .carousel .control-dots {
+    margin: 0;
+  }
+  
+  .carousel .control-arrow:hover {
+    background: rgb(0, 0, 0) !important; /* Remove the grey background color on hover */
+  }
+  
+  .carousel .control-prev.control-arrow {
+    left: 350px; /* Adjusts the left position of the previous button */
+  }
+  
+  .carousel .control-next.control-arrow {
+    right: 350px; /* Adjusts the right position of the next button */
+  }
+  
+  .carousel .thumbs-wrapper {
+    margin-top: 20px; /* Adds some space between the carousel and the control dots */
+  }
+
+  /* image sizing */
+
+  .img {
+    width: 300px;
+    height: 300px;
+    object-fit: scale-down;
+  }
+  
