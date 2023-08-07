@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f3eec160.css",
+    "main.js": "/React-Portfolio/static/js/main.7a4c38da.js",
+    "static/media/gamers-hub.png": "/React-Portfolio/static/media/gamers-hub.14cc323974a4fa9bf5ae.png",
+    "static/media/travel-journal.JPG": "/React-Portfolio/static/media/travel-journal.b00c607caea509a5f906.JPG",
+    "static/media/avatar.svg": "/React-Portfolio/static/media/avatar.3e17e5a26950f22a92adc69b618ebd40.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "static/media/github.svg": "/React-Portfolio/static/media/github.e7ab8675a2cbadea548cafe724065b9e.svg",
+    "static/media/stackoverflow.svg": "/React-Portfolio/static/media/stackoverflow.a6de365888e5587a1bffb538d6cf6064.svg",
+    "static/media/linkedin.svg": "/React-Portfolio/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
+    "main.f3eec160.css.map": "/React-Portfolio/static/css/main.f3eec160.css.map",
+    "main.7a4c38da.js.map": "/React-Portfolio/static/js/main.7a4c38da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3eec160.css",
+    "static/js/main.7a4c38da.js"
+  ]
+}
